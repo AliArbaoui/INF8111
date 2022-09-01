@@ -1,2 +1,2 @@
-# INF8111
+# INF 8111
 Data mining
